@@ -6,3 +6,4 @@
 # https://www.hackerrank.com/challenges/python-loops/problem
 # https://www.hackerrank.com/challenges/write-a-function/problem
 # https://www.hackerrank.com/challenges/python-print/problem
+# https://www.hackerrank.com/challenges/list-comprehensions/problem
