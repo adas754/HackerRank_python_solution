@@ -7,3 +7,4 @@
 # https://www.hackerrank.com/challenges/write-a-function/problem
 # https://www.hackerrank.com/challenges/python-print/problem
 # https://www.hackerrank.com/challenges/list-comprehensions/problem
+# https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem
